@@ -16,10 +16,8 @@ load_dotenv(os.path.join(_PROJECT_ROOT, ".env"))
 _API_KEY = os.getenv("GEMINI_API_KEY", "")
 if _API_KEY:
     genai.configure(api_key=_API_KEY)
-
-EMBEDDING_MODEL = "models/text-embedding-004"
-EMBEDDING_DIM = 768  # text-embedding-004 outputs 768-dim vectors
-
+EMBEDDING_MODEL = "models/embedding-001"
+EMBEDDING_DIM = 768  # embedding-001 outputs 768-dim vectors
 
 def embed_texts(texts: list[str]) -> np.ndarray:
     """
