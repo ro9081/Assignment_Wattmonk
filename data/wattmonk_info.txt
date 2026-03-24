@@ -1,0 +1,99 @@
+WATTMONK COMPANY INFORMATION
+
+== INTRODUCTION ==
+Wattmonk is a modern solar engineering and technology company established in 2019, dedicated to driving the global shift toward clean, renewable energy through innovation, efficiency, and user-oriented solutions. Headquartered in Delaware, USA, with significant international presence in India and Singapore, Wattmonk has rapidly established itself as a trusted partner for thousands of solar professionals and installers.
+
+== COMPANY OVERVIEW ==
+Wattmonk offers a blend of advanced solar services, specializing in high-quality, fast-turnaround solar design, permitting, and engineering review solutions. Their core mission is to simplify and accelerate every stage of the solar project lifecycle—making solar power more accessible and affordable.
+- Established: 2019
+- Headquarters: Delaware, USA
+- Global Presence: Services across all 50 US states, with teams in India and Singapore
+- Employees: 201–500
+
+== VISION AND VALUES ==
+Wattmonk is committed to revolutionizing how the world harnesses clean energy. The company is focused on sustainability, efficiency, technology leadership, and customer-centric service. Diversity and inclusion are core organizational values, contributing to an innovative, collaborative team culture.
+
+== PRODUCTS AND SERVICES ==
+Wattmonk's end-to-end solar engineering platform covers everything from initial project proposals to final approval, leveraging automation, analytics, and an all-in-one workflow toolset.
+
+1. Solar Proposals:
+Wattmonk delivers swift 24-hour turnaround for solar proposals and shade analysis. Proposals include system design, energy production estimates, financial projections, and shade analysis to help solar installers and EPCs sell faster and more effectively.
+
+2. Site Survey App:
+Wattmonk's Site Survey App enables comprehensive, user-friendly solar site surveys. Installers can input data directly into plan sets or proposals, reducing manual data entry and errors. The app captures roof measurements, shading details, electrical panel information, and utility data.
+
+3. Permit Plan Sets:
+Delivered in 6 hours, Wattmonk's permit plan sets include full technical drawings, diagrams, roof layouts, attachment details, structural calculations, and electrical calculations. These are AHJ-compliant and ready for submission.
+
+4. Engineering Review (PE Review):
+Wattmonk offers effortless PE (Professional Engineer) Structural and Electrical reviews with online submission and fast feedback. Both residential and commercial projects are supported.
+
+5. PTO Application (Permission to Operate):
+Wattmonk's dedicated PTO team prepares and submits all interconnection documents to utility companies on behalf of installers, ensuring smooth Permission to Operate approvals.
+
+6. Permitting Support:
+Full guidance from permit application submission to approval. Wattmonk handles interactions with Authorities Having Jurisdiction (AHJs) to ensure hassle-free project progress.
+
+== TECHNOLOGICAL INNOVATION: ZIPPY ==
+Zippy is Wattmonk's pioneering machine-learning-powered (ML) semi-automated plan set tool. Zippy automates the creation of both single-line diagrams (SLD) and three-line diagrams, as well as electrical and structural calculations. This reduces human errors, speeds up engineering reviews, and supports cost efficiency across projects.
+
+Key Zippy features:
+- Minimizes manual work and turnaround time
+- Automates SLD and three-line diagram generation
+- Handles electrical load calculations and structural calculations
+- Supports seamless project planning for both residential and commercial solar installations
+- Integrates with Wattmonk's broader project management workflow
+
+== REAL-TIME PROJECT MANAGEMENT ==
+Wattmonk provides a real-time project management dashboard for solar professionals:
+- Track projects and tasks in real time
+- Integrated team management and communication tools
+- Master Details dashboard for project monitoring (equipment, specs, installers, etc.)
+- Centralized document management for all project files
+
+== MARKET IMPACT AND SCALE ==
+- Successfully provides design support for more than 20,000 homes monthly across the United States
+- Holds a database of over 6,500 Authorities Having Jurisdiction (AHJs)
+- Database of more than 500 utility providers, facilitating smooth permitting and utility interconnection
+- Recognized for the industry's fastest turnaround times
+- Delivers up to 30% savings on solar project installation costs
+- Serves solar professionals across all 50 US states
+
+== CULTURE AND EMPLOYEE EXPERIENCE ==
+Wattmonk fosters a vibrant, inclusive culture that emphasizes employee growth, balanced work-life, and collaborative teamwork. The company's "Solar Warriors" are encouraged to innovate, challenge norms, and contribute to shaping sustainable energy's future.
+- Flexible schedules and remote work opportunities
+- Wellness programs and employee benefits focus on holistic well-being
+- Learning and professional growth opportunities
+- Numerous engagement activities to blend work and fun
+
+== FREQUENTLY ASKED QUESTIONS ==
+
+Q: Who does Wattmonk serve?
+A: Wattmonk serves solar professionals, EPCs (Engineering, Procurement, and Construction companies), developers, dealers, and installers across the United States and internationally.
+
+Q: What types of projects does Wattmonk handle?
+A: Wattmonk handles both residential and commercial solar projects, including rooftop solar installations, ground mount systems, and carport solar installations.
+
+Q: How does Wattmonk improve installer efficiency?
+A: Wattmonk improves installer efficiency by automating core tasks (like plan set creation with Zippy), providing real-time project insights, and ensuring all services—from site survey to interconnection—are under one digital roof, reducing coordination overhead and turnaround times.
+
+Q: How fast does Wattmonk deliver plan sets?
+A: Wattmonk delivers permit-ready plan sets in as little as 6 hours, and solar proposals within 24 hours.
+
+Q: What is the Zippy tool?
+A: Zippy is Wattmonk's proprietary ML-powered semi-automated plan set creation tool. It automatically generates single-line and three-line electrical diagrams and calculates structural and electrical parameters, saving significant time compared to manual drafting.
+
+Q: What is a PTO application?
+A: PTO stands for Permission to Operate. It is the utility approval required before a solar installation can be turned on and connected to the grid. Wattmonk's dedicated PTO team prepares and submits all interconnection documents directly to the utility on behalf of the installer.
+
+Q: Does Wattmonk support PE reviews?
+A: Yes. Wattmonk offers both PE Structural reviews and PE Electrical reviews for solar installations. These are performed by licensed Professional Engineers and delivered with fast turnaround.
+
+Q: In how many US states does Wattmonk operate?
+A: Wattmonk provides services across all 50 US states.
+
+Q: What is an AHJ?
+A: AHJ stands for Authority Having Jurisdiction. It is the local government body (city, county, or utility) that reviews and approves solar permit applications. Wattmonk maintains a database of over 6,500 AHJs to streamline permitting across the country.
+
+== CONCLUSION ==
+Wattmonk stands at the forefront of the solar engineering sector, combining technological excellence with swift, reliable, and cost-effective services for solar enterprises worldwide. Its blend of innovative tools (especially Zippy), strong corporate values, and inclusive culture makes it a leading choice for organizations seeking smarter solar solutions.

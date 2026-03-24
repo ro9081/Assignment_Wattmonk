@@ -1,0 +1,183 @@
+NATIONAL ELECTRICAL CODE (NEC) — SOLAR ENERGY RELEVANT SECTIONS
+
+== NEC ARTICLE 690: SOLAR PHOTOVOLTAIC (PV) SYSTEMS ==
+
+Article 690 of the National Electrical Code covers the installation of solar photovoltaic (PV) systems and associated equipment. It applies to all solar PV systems including residential, commercial, and utility-scale installations.
+
+690.1 Scope:
+Article 690 covers solar photovoltaic systems, including the array, inverters, combiners, charge controllers, and associated wiring and equipment. It does not cover utility-owned installations.
+
+690.2 Definitions:
+- Photovoltaic System: The total components and subsystems that, in combination, convert solar energy into electrical energy suitable for connection to a utilization load.
+- PV Array: A mechanically integrated assembly of PV modules or panels with a support structure and foundation, tracker, and other components as required to form a DC power-producing unit.
+- Inverter: Equipment used to convert DC voltage from the PV array to AC voltage for connection to the grid or loads.
+- Microinverter: An inverter that interfaces directly with a single PV module.
+- String Inverter: An inverter connected to a series string (or multiple parallel strings) of PV modules.
+- PV System Disconnect: The disconnect means for the PV system.
+- Rapid Shutdown: A code-required safety feature that reduces PV system voltage to safe levels within specific boundaries in an emergency.
+
+690.4 Installation:
+PV systems shall be installed only by qualified persons. PV system components shall be listed and identified for use in PV systems. Wiring methods shall comply with applicable NEC articles.
+
+690.6 Interactive Systems:
+PV systems that are to be operated in parallel with a primary source of electricity (grid-tied systems) are "interactive systems." They must comply with Article 705 as well.
+
+690.7 Maximum Voltage:
+For one- and two-family dwellings, the PV system maximum voltage is limited to 600V DC unless the system uses listed equipment rated for a higher voltage. For other building types, the voltage can be up to 1000V DC or higher if listed equipment is used.
+
+690.8 Circuit Sizing and Current:
+The maximum current of PV source circuits and output circuits shall be based on 125% of the rated short-circuit current (Isc) of all PV modules connected in parallel. Conductors shall be sized to carry not less than the larger of the module ratings.
+
+690.10 Stand-Alone Systems:
+PV systems operating in stand-alone (off-grid) mode shall comply with Article 690.10. Inverters used in stand-alone systems shall be listed for stand-alone use.
+
+690.12 Rapid Shutdown of PV Systems on Buildings:
+PV systems installed on or in buildings shall include a rapid shutdown function to control conductors in the PV system. The rapid shutdown system shall comply with the following:
+- Initiation devices: Readily accessible, listed, and able to initiate rapid shutdown.
+- Conductors inside the array boundary shall be limited to 80V within 30 seconds of initiation.
+- Conductors outside the array boundary shall be de-energized within 30 seconds of initiation.
+- Listed rapid shutdown initiators (RSI) must be integrated with modules or installed at each module.
+
+690.31 Wiring Methods:
+PV source circuits and output circuits on or in a building shall use wiring methods and materials suitable for the conditions. Wiring exposed to sunlight shall be listed for direct exposure. USE-2, RHW-2, XHH, XHHW, or THWN-2 conductors rated for wet locations shall be used for outdoor wiring.
+
+690.32 Component Interconnections:
+PV modules and systems shall interconnect with labeled, listed connectors (often MC4 or equivalent). Only compatible connectors from the same manufacturer shall be mated.
+
+690.35 Ungrounded PV Systems:
+Ungrounded (transformerless) PV systems shall use listed equipment and include ground fault protection and arc fault protection.
+
+690.41 System Grounding:
+For a PV system operating at over 50V, one conductor of a 2-wire PV source circuit shall be grounded or the system shall use suitable ground fault protection.
+
+690.47 Grounding Electrode System:
+A grounding electrode system shall be provided for all PV systems. The grounding electrode shall comply with Article 250, Part III.
+
+690.53 PV Disconnect Marking:
+PV system disconnects shall be permanently marked with: "PV SYSTEM DISCONNECT" and the maximum input voltage and maximum current.
+
+690.56 Identification of Power Sources:
+Equipment at the utility service entrance shall be marked to indicate the presence of multiple power sources on the premises (PV + utility).
+
+690.64 Point of Connection:
+The output of an interactive system shall be connected to the supply side of the main service disconnect or to a dedicated overcurrent device in the panelboard. The sum of all power source ampere ratings shall not exceed 120% of the busbar or conductor ampere rating.
+
+== NEC ARTICLE 705: INTERCONNECTED ELECTRIC POWER PRODUCTION SOURCES ==
+
+Article 705 covers the installation of one or more electric power production sources operating in parallel with a primary source of electricity (the utility grid).
+
+705.2 Definitions:
+- Interactive System: A solar or other power generation system that operates in parallel with and is capable of delivering power to an electrical production and distribution network.
+- Point of Common Coupling (PCC): The point where a local electrical power system (like a PV system) is connected to the electric distribution system (utility).
+
+705.12 Point of Connection:
+Power production output connections shall be made at the following points:
+(A) Supply Side of the Service Disconnect: Connections shall comply with 230.82.
+(B) Load Side of the Service Disconnect (Busbar Connection Rule): The sum of the ampere ratings of overcurrent devices connected to power production sources shall not exceed 120% of the rating of the busbar or conductors.
+For a 200A panel: Max generator/PV breaker = 200A × 120% = 240A total available → typically 200A (main) + 40A (PV breaker) = 240A. A 40A PV breaker or smaller is acceptable.
+
+705.16 Interrupting and Short-Circuit Current Rating:
+The inverter output short circuit current rating must be considered when sizing overcurrent protection.
+
+705.40 Loss of Primary Source:
+Upon loss of the primary power source (utility), a grid-tied inverter must automatically disconnect from the grid ('anti-islanding'). Manual reconnection shall be required.
+
+== NEC ARTICLE 250: GROUNDING AND BONDING ==
+
+Article 250 covers grounding and bonding requirements for PV systems and all electrical systems.
+
+250.2 Definitions:
+- Grounding: Connecting equipment or circuit conductors to ground (earth) to limit voltage and facilitate fault clearing.
+- Bonding: The permanent joining of metallic parts to form an electrically conductive path to ensure electrical continuity and conductivity.
+- Equipment Grounding Conductor (EGC): The conductive path that connects the non-current-carrying metal parts of equipment, raceways, and other enclosures to the grounded conductor at the service or source.
+
+250.4 General Requirements:
+Grounded systems shall be grounded and bonded to limit voltages and to facilitate overcurrent device operation on ground faults. Equipment shall be grounded to protect persons from electric shock.
+
+250.50 Grounding Electrode System:
+All grounding electrodes present at a building shall be bonded together to form the Grounding Electrode System. Acceptable grounding electrodes include:
+- Metal underground water pipe
+- Metal frame of building
+- Concrete-encased electrode (Ufer ground)
+- Ground ring
+- Rod and pipe electrodes (ground rods, minimum 8 feet penetration)
+
+250.66 Size of AC Grounding Electrode Conductor:
+The grounding electrode conductor minimum size is based on the largest ungrounded service-entrance conductor. For a 200A service with 2/0 AWG conductors, use a minimum 4 AWG copper grounding electrode conductor.
+
+250.102 Bonding Conductors:
+For a PV system, all metal parts of the array frame and racking, inverter enclosures, and conduits shall be bonded together and connected to the system grounding electrode. The bonding conductor shall be sized per Table 250.66.
+
+== NEC ARTICLE 230: SERVICES ==
+
+Article 230 covers the installation requirements for service conductors and equipment.
+
+230.82 Equipment Connected to the Supply Side of Service Disconnect:
+Among the equipment permitted to be connected to the supply side of the service disconnect is solar PV output (Article 705). Tap conductors for this purpose shall be protected by overcurrent protection.
+
+230.95 Ground-Fault Protection of Equipment:
+Ground-fault protection is required for services of more than 150V to ground but not exceeding 600V phase-to-phase for solidly grounded wye services. PV systems must integrate with this protection.
+
+== NEC ARTICLE 240: OVERCURRENT PROTECTION ==
+
+Article 240 covers overcurrent protection for conductors and equipment.
+
+240.4 Protection of Conductors:
+Conductors shall be protected against overcurrent in accordance with their ampacities. PV source circuit conductors shall be sized and protected based on 690.8.
+
+240.21 Location in Circuit:
+Overcurrent devices shall be located at the point where the conductor receives its supply. Tap conductors from a busbar (as in 705.12) shall follow tap conductor rules.
+
+== NEC ARTICLE 310: CONDUCTORS FOR GENERAL WIRING ==
+
+Article 310 covers conductors used in electrical installations including PV systems.
+
+310.15 Ampacities for Conductors:
+Conductor ampacity depends on insulation type, temperature rating, conduit fill, and ambient temperature. For PV systems, conductors are often derated because:
+- They operate at high temperatures on rooftops (ambient correction factor applies)
+- Multiple conductors may be run together (conduit fill correction factor applies)
+Typical PV wire: USE-2, PV Wire, THWN-2 rated 90°C
+
+Common wire gauges for residential PV:
+- 10 AWG: ~30–40A (commonly used for PV source circuits at 600V)
+- 8 AWG: ~40–55A
+- 6 AWG: ~55–75A (commonly used for PV system output circuit)
+- 4 AWG: ~70–95A
+- 2 AWG: ~95–130A
+
+== NEC ARTICLE 300: WIRING METHODS ==
+
+Article 300 covers general requirements for wiring methods used in PV installations.
+
+300.3 Conductors:
+All conductors of the same circuit shall be contained within the same raceway or cable. For PV systems, positive and negative conductors of each PV source circuit must be run together.
+
+300.5 Underground Installations:
+Direct burial cables and raceways shall have minimum cover requirements. For residential (not more than 120/240V): 12 inches minimum cover. For conduit systems (rigid PVC or EMT in concrete): 6 inches minimum.
+
+300.11 Securing and Supporting:
+Cables and raceways shall be properly supported and secured. NM cable must be secured within 12 inches of each box and every 4.5 feet. PV conduit runs shall use straps or support brackets.
+
+300.14 Length of Free Conductors at Outlets:
+At least 6 inches of free conductor shall be left at each outlet or junction box.
+
+== COMMON NEC SOLAR CALCULATIONS ==
+
+1. Maximum PV Voltage (Voc per module × number of modules in series × temperature correction):
+   Vmax = Voc × N_series × temperature_correction_factor
+   At low temperatures, Voc increases. Always check for winter minimum temperature.
+
+2. PV String Maximum Current:
+   I_circuit = Isc × 1.25 (125% safety factor per 690.8)
+   Conductor must be rated ≥ this current.
+
+3. 120% Busbar Rule:
+   Max PV breaker = (Busbar rating × 1.20) − Main breaker rating
+   Example: 200A bus, 200A main → Max PV breaker = 240 − 200 = 40A
+
+4. Ground Rod Minimum Depth:
+   8 feet (2.44m) into the ground, or if difficult to drive full length, may be bent/angled at no more than 45 degrees.
+
+5. Conduit Fill:
+   Maximum 40% fill for 3 or more conductors per Table 1, Chapter 9 of NEC.
+   Important for sizing conduit runs in PV systems.
