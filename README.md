@@ -65,6 +65,8 @@ pip install -r requirements.txt
 python rag/indexer.py
 python -m uvicorn main:app --reload --port 8000
 ```
+### DEPLOYED LINK:
+https://assignment-wattmonk.vercel.app/
 
 ### Frontend Initialization
 Boot up the React frontend.
